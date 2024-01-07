@@ -11,10 +11,11 @@
     {
       "name": "Tags",
       "url": "/tags"
-    },
-    {
-      "name": "Categories",
-      "url": "/categories"
+    
+    
     }
+    
+     
+    
   ]
 }
